@@ -1,5 +1,5 @@
 # chatApp
 
-Chat web application using React.js, Firebase, Chat Engine.
+Chat web application using React.js, Firebase, Chat Engine. 
 
-https://chatapp-peach.vercel.app/
+Hosted on Vercel: https://chatapp-peach.vercel.app/
